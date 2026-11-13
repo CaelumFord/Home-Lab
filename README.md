@@ -14,7 +14,7 @@ The Home Lab project aimed to establish a controlled environment for simulating 
 
 ### Tools Used
 
-- Oracle Virtualbox to simulate a virtual network of virtual machines and integrate the SIEM tool.
+- Oracle Virtualbox Hypervisor to simulate a virtual network of virtual machines and integrate the SIEM tool.
 - Security Information and Event Management (SIEM) system for log ingestion and analysis (Wazuh).
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 

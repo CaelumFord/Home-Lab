@@ -18,4 +18,6 @@ The Home Lab project aimed to establish a controlled environment for simulating 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis (Wazuh).
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
+### Directory Navigation
 
+For a detailed breakdown of the network topology, IP scoping and virtual machine hardware inventory, see the Home Lab Architecture Documentation.

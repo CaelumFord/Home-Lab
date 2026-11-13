@@ -9,7 +9,7 @@
 
 ## Virtual Network Topology Map:
 
-
+[insert topology]
 
 
 ## Virtual Machine Inventory Table:

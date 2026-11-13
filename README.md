@@ -20,4 +20,4 @@ The Home Lab project aimed to establish a controlled environment for simulating 
 
 ### Directory Navigation
 
-For a detailed breakdown of the network topology, IP scoping and virtual machine hardware inventory, see the Home Lab Architecture Documentation.
+For a detailed breakdown of the network topology, IP scoping and virtual machine hardware inventory, see the <a href="https://github.com/CaelumFord/Home-Lab/blob/main/Architecture.md">Home Lab Architecture Documentation.

@@ -9,7 +9,7 @@
 
 ## Virtual Network Topology Map:
 
-<img width="918" height="692" alt="SOC_Lab Network V3 (1)" src="https://github.com/user-attachments/assets/bbf45531-5c5f-4059-9f46-e85c511c2fa7" />
+<img width="996" height="749" alt="SOC_Lab Network V3 (Edited)" src="https://github.com/user-attachments/assets/b3a1ef83-00dc-4f63-aee3-0bddb0fa4d54" />
 
 
 ## Virtual Machine Inventory Table:
